@@ -6,19 +6,33 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Working on **IoT & Data Analytics projects**  
-- 🌱 Currently learning **Java, SQL, and Full Stack Web Development**  
-- 📊 Interested in **Data Analysis & Visualization**  
-- 💡 Strong in **theory + communication**, improving coding every day  
+- 🔭 Worked on **IoT and Data Analytics projects**  
+- 🌱 Currently learning **Full Stack Development (React + Java + SQL)**  
+- 💡 Interested in **building scalable web apps** and **data-driven solutions**  
 - 📧 Reach me at: **manikandansethuraman007@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/s-manikandan-180b85276)  
+
+---
+
+## 📌 Projects  
+
+### 🚦 Accidental Alert System (IoT)  
+- Developed a system to detect accidents using sensors and send automated alerts.  
+- Integrated hardware with software for real-time notifications.  
+- **Tech:** IoT Sensors, Microcontroller, Python  
+
+### 📊 COVID-19 Data Dashboard  
+- Created an interactive dashboard to visualize COVID-19 data trends.  
+- Performed data cleaning, processing, and visualization.  
+- Deployed using Streamlit for user interaction.  
+- **Tech:** Python, Pandas, Streamlit, Matplotlib  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,flask,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,sql,github" />
 </p>
 
 ---
@@ -26,16 +40,7 @@
 ## ⚙️ Tools I Use  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,postman,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan0714&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan0714&theme=radical" width="45%"/>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,gitlab" />
 </p>
 
 ---
