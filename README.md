@@ -9,8 +9,9 @@
 - 🔭 Worked on **IoT and Data Analytics projects**  
 - 🌱 Currently learning **Full Stack Development (React + Java + SQL)**  
 - 💡 Interested in **building scalable web apps** and **data-driven solutions**  
+- 🧑‍💻 Practicing coding daily on **LeetCode & CodeChef**  
 - 📧 Reach me at: **manikandansethuraman007@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/s-manikandan-180b85276)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/s-manikandan-180b85276)   
 
 ---
 
@@ -42,6 +43,18 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,gitlab" />
 </p>
+
+---
+
+## 🏆 Coding Profiles  
+
+### 🔹 LeetCode  
+![LeetCode Stats](https://leetcard.jacoblin.cool/manikandans22it?theme=dark&font=Karma&ext=contest)  
+🔗 [View Profile](https://leetcode.com/u/manikandans22it/)
+
+### 🔹 CodeChef  
+![CodeChef Stats](https://cp-logo.vercel.app/codechef/s_manikandan_7)  
+🔗 [View Profile](https://www.codechef.com/users/s_manikandan_7)
 
 ---
 
