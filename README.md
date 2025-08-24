@@ -53,9 +53,8 @@
 🔗 [View Profile](https://leetcode.com/u/manikandans22it/)
 
 ### 🔹 CodeChef  
-![CodeChef Stats](https://cp-logo.vercel.app/codechef/s_manikandan_7)  
+![CodeChef Badge](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef)  
 🔗 [View Profile](https://www.codechef.com/users/s_manikandan_7)
 
----
 
 ⭐️ *“Eager to learn, build, and grow as a Full Stack Developer & Data Analyst.”*
