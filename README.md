@@ -53,7 +53,7 @@
 🔗 [View Profile](https://leetcode.com/u/manikandans22it/)  
 
 ### 🔹 CodeChef  
-![CodeChef Badge](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef)  
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=s_manikandan_7&theme=dark) 
 🔗 [View Profile](https://www.codechef.com/users/s_manikandan_7)  
 
 ---
