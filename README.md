@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Manikandan  
-### 🎓 Aspiring Full Stack Developer & Data Analyst  
 
+### 🎓 Aspiring Full Stack Developer & Data Analyst  
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
@@ -11,37 +11,37 @@
 - 💡 Interested in **building scalable web apps** and **data-driven solutions**  
 - 🧑‍💻 Practicing coding daily on **LeetCode & CodeChef**  
 - 📧 Reach me at: **manikandansethuraman007@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/s-manikandan-180b85276)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/s-manikandan-180b85276)  
 
 ---
 
-## 📌 Projects  
+## 🚀 Projects  
 
 ### 🚦 Accidental Alert System (IoT)  
-- Developed a system to detect accidents using sensors and send automated alerts.  
-- Integrated hardware with software for real-time notifications.  
-- **Tech:** IoT Sensors, Microcontroller, Python  
+- 🛰️ Detects accidents using IoT sensors and sends **real-time alerts**.  
+- 🔗 Integrated **hardware + software** for automated emergency notifications.  
+- ⚡ **Tech:** IoT Sensors, Microcontroller, Python  
 
 ### 📊 COVID-19 Data Dashboard  
-- Created an interactive dashboard to visualize COVID-19 data trends.  
-- Performed data cleaning, processing, and visualization.  
-- Deployed using Streamlit for user interaction.  
-- **Tech:** Python, Pandas, Streamlit, Matplotlib  
+- 📈 Interactive dashboard to visualize **COVID-19 trends**.  
+- 🧹 Performed **data cleaning, processing & visualization**.  
+- 🌐 Deployed using **Streamlit** for interactive usage.  
+- ⚡ **Tech:** Python, Pandas, Streamlit, Matplotlib  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,sql,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,sql,html,css,bootstrap" />
 </p>
 
 ---
 
 ## ⚙️ Tools I Use  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,gitlab" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,gitlab,postman,mysql" />
 </p>
 
 ---
@@ -50,11 +50,37 @@
 
 ### 🔹 LeetCode  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manikandans22it?theme=dark&font=Karma&ext=contest)  
-🔗 [View Profile](https://leetcode.com/u/manikandans22it/)
+🔗 [View Profile](https://leetcode.com/u/manikandans22it/)  
 
 ### 🔹 CodeChef  
 ![CodeChef Badge](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef)  
-🔗 [View Profile](https://www.codechef.com/users/s_manikandan_7)
+🔗 [View Profile](https://www.codechef.com/users/s_manikandan_7)  
 
+---
 
-⭐️ *“Eager to learn, build, and grow as a Full Stack Developer & Data Analyst.”*
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan0714&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manikandan0714&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikandan0714&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Fun Animations  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manikandan0714&theme=algolia&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐️ *“Eager to learn, build, and grow as a Full Stack Developer & Data Analyst.”*  
