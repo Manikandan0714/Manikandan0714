@@ -52,33 +52,22 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manikandans22it?theme=dark&font=Karma&ext=contest)  
 🔗 [View Profile](https://leetcode.com/u/manikandans22it/)  
 
+📊 Heatmap (LeetCode Activity):  
+![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=manikandans22it&theme=dark&show=heatmap)  
+
+---
+
 ### 🔹 CodeChef  
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=s_manikandan_7&theme=dark) 
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=s_manikandan_7&theme=dark)  
 🔗 [View Profile](https://www.codechef.com/users/s_manikandan_7)  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manikandan0714&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Manikandan0714&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikandan0714&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🌟 Fun Animations  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manikandan0714&theme=algolia&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
