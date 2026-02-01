@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Manikandan  
 
-### 🎓 Aspiring Full Stack Developer & Data Analyst  
+### 🎓 Aspiring Full Stack Developer & DevOps and Cloud Ops Engineer  
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
